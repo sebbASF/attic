@@ -1,0 +1,3 @@
+staging:
+  profile: depend/test/test-2.1.0
+  whoami: depend/test/test-2.1.0-site
